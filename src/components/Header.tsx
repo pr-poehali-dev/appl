@@ -10,8 +10,8 @@ const Header = () => {
     <header className="bg-black bg-opacity-90 backdrop-blur-md text-white py-3 px-6 sticky top-0 z-50">
       <div className="container mx-auto">
         <div className="flex items-center justify-between">
-          <div className="flex items-center gap-1.5">
-            <div className="flex items-center justify-center">
+          <div className="flex items-center gap-2">
+            <div className="w-5 h-5 flex items-center justify-center">
               <AppleLogo />
             </div>
             <a href="/" className="text-xl font-medium">
