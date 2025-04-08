@@ -1,9 +1,9 @@
 const AppleLogo = () => {
   return (
     <svg 
-      viewBox="-1 -1 16 19" 
+      viewBox="-2 0 16 19" 
       width="16" 
-      height="18" 
+      height="21" 
       xmlns="http://www.w3.org/2000/svg" 
       className="fill-current text-white"
     >

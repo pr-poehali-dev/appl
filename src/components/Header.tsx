@@ -11,7 +11,7 @@ const Header = () => {
       <div className="container mx-auto">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-2">
-            <div className="w-5 h-5 flex items-center justify-center">
+            <div className="w-6 h-6 flex items-center justify-center">
               <AppleLogo />
             </div>
             <a href="/" className="text-xl font-medium">
