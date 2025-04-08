@@ -11,8 +11,8 @@ const Hero = () => {
       <div className="absolute -bottom-40 left-1/2 transform -translate-x-1/2 w-[800px] h-[800px] rounded-full bg-[#06c] opacity-10 blur-3xl"></div>
       
       <div className="container mx-auto px-4 relative z-10">
-        <div className="mb-8 opacity-90">
-          <AppleLogo className="h-12 w-12 mx-auto" color="white" />
+        <div className="mb-8 opacity-90 text-white">
+          <AppleLogo className="h-12 w-12 mx-auto text-white" />
         </div>
         
         <h1 className="text-5xl md:text-7xl font-semibold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-[#fbfbfd] via-[#06c] to-[#fbfbfd]">
