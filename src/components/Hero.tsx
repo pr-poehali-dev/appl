@@ -34,7 +34,7 @@ const Hero = () => {
           
           <Button
             variant="outline"
-            className="rounded-full px-10 py-7 font-medium border-white text-white text-lg hover:bg-white/10"
+            className="bg-transparent rounded-full px-10 py-7 font-medium border-[#06c] text-[#06c] text-lg hover:bg-[#06c]/10"
             onClick={() => document.getElementById('how-to-use')?.scrollIntoView({ behavior: 'smooth' })}
           >
             Узнать больше
